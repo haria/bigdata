@@ -13,3 +13,8 @@ template: http://www.wolframalpha.com/
 ### https://arxiv.org/pdf/1612.00837.pdf
 ### https://zhuanlan.zhihu.com/p/22408033
 ### https://arxiv.org/pdf/1506.01144.pdf
+### https://arxiv.org/pdf/1412.2306.pdf
+### https://arxiv.org/pdf/1504.00325.pdf
+### https://arxiv.org/pdf/1411.5654.pdf
+### https://arxiv.org/pdf/1411.4555.pdf
+### https://arxiv.org/pdf/1410.1090.pdf
