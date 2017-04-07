@@ -9,5 +9,6 @@ template: http://www.wolframalpha.com/
 
 
 
-http://cs.stanford.edu/people/karpathy/cvpr2015.pdf
-https://arxiv.org/pdf/1612.00837.pdf
+### http://cs.stanford.edu/people/karpathy/cvpr2015.pdf
+### https://arxiv.org/pdf/1612.00837.pdf
+### https://zhuanlan.zhihu.com/p/22408033
