@@ -20,3 +20,6 @@ template: http://www.wolframalpha.com/
 ### https://arxiv.org/pdf/1410.1090.pdf
 ### http://www.aclweb.org/anthology/P/P14/P14-2074.xhtml
 ### http://www.1000video.cn/jl/ga_1561_2742.html
+
+
+### http://geek.csdn.net/news/detail/191289
