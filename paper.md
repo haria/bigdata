@@ -4,6 +4,11 @@
 ## HAAR+AdaBoost
 Viola Paul， Jones Michael, Robust Real-time Object Detection， IJCV，2001
 
+## SVM 
+Stuart Andrews, Ioannis Tsochantaridis, and Thomas Hofmann. Support vector machines for multiple-instance
+learning. In Advances in Neural Information Processing Systems 15, pages 561–568. Cambridge,
+MA:MIT Press, 2003.
+
 # 基于深度学习
 
 ## AlexNet, 将深度学习应用到图像分类，并在性能上取得突破性进展, 图像领域由传统机器视觉向基于深度学习的机器视觉转变的开端。http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
