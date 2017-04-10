@@ -1,4 +1,4 @@
-## AlexNet, 将深度学习应用到图像分类，并在性能上取得突破性进展 http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+## AlexNet, 将深度学习应用到图像分类，并在性能上取得突破性进展, 图像领域由传统机器视觉向基于深度学习的机器视觉转变的开端。http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
 
 
