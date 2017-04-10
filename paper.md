@@ -3,16 +3,16 @@ Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification wit
 
 
 # Region Proposal based.
-## R-CNN, UC Berkeley [Paper-CVPR14] [Paper-arXiv14] http://arxiv.org/pdf/1311.2524
+## R-CNN, UC Berkeley http://arxiv.org/pdf/1311.2524
 Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
 
-## SPP, Microsoft Research [Paper] http://arxiv.org/pdf/1406.4729
+## SPP, Microsoft Research http://arxiv.org/pdf/1406.4729
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV, 2014.
 
-## Fast R-CNN, Microsoft Research [Paper] https://arxiv.org/abs/1504.08083
+## Fast R-CNN, Microsoft Research https://arxiv.org/abs/1504.08083
 Ross Girshick, Fast R-CNN, arXiv:1504.08083.
 
-## Faster R-CNN, Microsoft Research [Paper] https://arxiv.org/abs/1506.01497
+## Faster R-CNN, Microsoft Research https://arxiv.org/abs/1506.01497
 Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.
 
 ## R-FCN https://arxiv.org/abs/1605.06409
