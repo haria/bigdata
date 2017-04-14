@@ -23,3 +23,8 @@ template: http://www.wolframalpha.com/
 
 
 ### http://geek.csdn.net/news/detail/191289
+
+
+
+
+### how to make good document? http://www.mkdocs.org/
