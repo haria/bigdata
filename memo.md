@@ -36,3 +36,5 @@ template: http://www.wolframalpha.com/
 # data augmentation
 ### http://www.cnblogs.com/arthurpro/p/6008609.html
 ### https://www.zhihu.com/question/35339639
+# faster rcnn
+### http://m.blog.csdn.net/article/details?id=51152614
