@@ -42,3 +42,6 @@ template: http://www.wolframalpha.com/
 # voiceprint
 ### https://zhuanlan.zhihu.com/p/24425179
 ### https://github.com/hbredin/TristouNet
+
+# wavenet
+### https://zhuanlan.zhihu.com/p/24317897
