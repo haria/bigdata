@@ -38,3 +38,7 @@ template: http://www.wolframalpha.com/
 ### https://www.zhihu.com/question/35339639
 # faster rcnn
 ### http://m.blog.csdn.net/article/details?id=51152614
+
+# voiceprint
+### https://zhuanlan.zhihu.com/p/24425179
+### https://github.com/hbredin/TristouNet
